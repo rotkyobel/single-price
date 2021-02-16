@@ -2,7 +2,6 @@
   flex-direction: column;
   flex-wrap: wrap;
   width: 635px;
-  box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.1);
 }
 
 .card {
